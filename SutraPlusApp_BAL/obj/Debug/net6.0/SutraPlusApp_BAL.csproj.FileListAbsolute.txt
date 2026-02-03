@@ -13,3 +13,4 @@ D:\Project\SutraPlusApp\SutraPlusApp_BAL\obj\Debug\net6.0\SutraPlusApp_BAL.dll
 D:\Project\SutraPlusApp\SutraPlusApp_BAL\obj\Debug\net6.0\refint\SutraPlusApp_BAL.dll
 D:\Project\SutraPlusApp\SutraPlusApp_BAL\obj\Debug\net6.0\SutraPlusApp_BAL.pdb
 D:\Project\SutraPlusApp\SutraPlusApp_BAL\obj\Debug\net6.0\ref\SutraPlusApp_BAL.dll
+D:\Project\SutraPlusApp\SutraPlusApp_BAL\obj\Debug\net6.0\SutraPlusApp_BAL.sourcelink.json

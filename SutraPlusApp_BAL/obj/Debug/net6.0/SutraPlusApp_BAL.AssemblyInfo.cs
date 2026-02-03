@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SutraPlusApp_BAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63d5048aac4f135a15a63791cfcd992689118bce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d111333cb08e85b86801c69bec44d8fa2e433ce6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SutraPlusApp_BAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SutraPlusApp_BAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
