@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SutraPlusApp_DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63d5048aac4f135a15a63791cfcd992689118bce")]
 [assembly: System.Reflection.AssemblyProductAttribute("SutraPlusApp_DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SutraPlusApp_DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

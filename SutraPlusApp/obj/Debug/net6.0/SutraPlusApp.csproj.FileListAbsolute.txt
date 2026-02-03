@@ -113,3 +113,4 @@ D:\Project\SutraPlusApp\SutraPlusApp\obj\Debug\net6.0\refint\SutraPlusApp.dll
 D:\Project\SutraPlusApp\SutraPlusApp\obj\Debug\net6.0\SutraPlusApp.pdb
 D:\Project\SutraPlusApp\SutraPlusApp\obj\Debug\net6.0\SutraPlusApp.genruntimeconfig.cache
 D:\Project\SutraPlusApp\SutraPlusApp\obj\Debug\net6.0\ref\SutraPlusApp.dll
+D:\Project\SutraPlusApp\SutraPlusApp\obj\Debug\net6.0\SutraPlusApp.sourcelink.json
