@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SutraPlusApp/.vs
+/SutraPlusApp/obj/Debug/net6.0/SutraPlusApp.AssemblyInfo.cs
+/SutraPlusApp/obj/Debug/net6.0/SutraPlusApp.AssemblyInfoInputs.cache
+/SutraPlusApp_BAL/obj/Debug/net6.0/SutraPlusApp_BAL.AssemblyInfo.cs
+/SutraPlusApp_BAL/obj/Debug/net6.0/SutraPlusApp_BAL.AssemblyInfoInputs.cache
+/SutraPlusApp_DAL/obj/Debug/net6.0/SutraPlusApp_DAL.AssemblyInfo.cs
+/SutraPlusApp_DAL/obj/Debug/net6.0/SutraPlusApp_DAL.AssemblyInfoInputs.cache
